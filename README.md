@@ -4,7 +4,7 @@
 
 - <b>Python</b>
   - [System Password Manager in Python](https://github.com/kennethrockson/Password-Manager)
-  - [Port Scanner](https://github.com/kennethrockson/Port-Scanner) <b><i>(Potentially NSFW)</b></i>
+  - [Port Scanner](https://github.com/kennethrockson/Port-Scanner) 
   - [DDOS Attack Script](https://github.com/kennethrockson/DDOS)
   - [Information Scraping](https://github.com/kennethrockson/InfoScraper)
 - <b>PowerShell</b>
@@ -18,14 +18,9 @@
 - [Active Directory)](https://www.kennethrocksonstylist.com/blog/active-directory)
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KennethRockson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/kennethrockson
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
