@@ -5,8 +5,7 @@
 - <b>Python</b>
   - [System Password Manager](https://github.com/kennethrockson/Password-Manager)
   - [Port Scanner](https://github.com/kennethrockson/Port-Scanner) 
-  - [DDOS Attack Script](https://github.com/kennethrockson/DDOS)
-  - [Information Scraping](https://github.com/kennethrockson/InfoScraper)
+  - [System Threat Tracker](https://github.com/kennethrockson/System-Threat-Tracker/)
 - <b>PowerShell</b>
   - [File Integrity Monitor](https://github.com/kennethrockson/File-Monitor)
 
