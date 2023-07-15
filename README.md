@@ -11,18 +11,15 @@
 
 <h2>📺 Popular Blogs</h2>
 
+- [My Project: System Threat Tracker)](https://kennethr.squarespace.com/blog/introducing-the-system-threat-tracker)
 - [My Lab: Azure Vulnerability Management](https://www.kennethrocksonstylist.com/blog/my-lab-azure-vulnerability-management)
 - [Why is the OWASP top 10 so important?](https://www.kennethrocksonstylist.com/blog/why-is-the-owasp-so-important)
-- [(Penetration Testing)](https://www.kennethrocksonstylist.com/blog/penetrationtest)
 - [(Active Directory)](https://www.kennethrocksonstylist.com/blog/active-directory)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="KennethRockson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/kennethrockson
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
