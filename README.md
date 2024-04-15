@@ -3,9 +3,10 @@
 <h2>👨‍💻 Programs:</h2>
 
 - <b>Python</b>
-  - [System Password Manager](https://github.com/kennethrockson/Password-Manager)
-  - [Port Scanner](https://github.com/kennethrockson/Port-Scanner) 
-  - [System Threat Tracker](https://github.com/kennethrockson/System-Threat-Tracker/)
+  - [Object Oriented Programming]([https://github.com/kennethrockson/Password-Manager](https://github.com/kennethrockson/Oop/tree/main/OOP))
+  - [Ebay Web Scraping](https://github.com/kennethrockson/Oop/blob/main/OOP/midterm_code.py) 
+  - [File Automation](https://github.com/kennethrockson/Oop/blob/main/OOP/file_io.py)
+  - [Scrabble](https://github.com/kennethrockson/Oop/blob/main/OOP/scrabble.py)
 - <b>PowerShell</b>
   - [File Integrity Monitor](https://github.com/kennethrockson/File-Monitor)
 
