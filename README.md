@@ -3,7 +3,7 @@
 <h2>👨‍💻 Programs:</h2>
 
 - <b>Python</b>
-  - [Object Oriented Programming]([https://github.com/kennethrockson/Password-Manager](https://github.com/kennethrockson/Oop/tree/main/OOP))
+  - [Object Oriented Programming](https://github.com/kennethrockson/Oop/tree/main/OOP)
   - [Ebay Web Scraping](https://github.com/kennethrockson/Oop/blob/main/OOP/midterm_code.py) 
   - [File Automation](https://github.com/kennethrockson/Oop/blob/main/OOP/file_io.py)
   - [Scrabble](https://github.com/kennethrockson/Oop/blob/main/OOP/scrabble.py)
