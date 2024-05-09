@@ -6,7 +6,7 @@
   - [Object Oriented Programming](https://github.com/kennethrockson/Oop/tree/main/OOP)
   - [Ebay Web Scraping](https://github.com/kennethrockson/Oop/blob/main/OOP/midterm_code.py) 
   - [File Automation](https://github.com/kennethrockson/Oop/blob/main/OOP/file_io.py)
-  - [Scrabble](https://github.com/kennethrockson/Oop/blob/main/OOP/scrabble.py)
+  - [NY Times API ETL Project](https://github.com/kennethrockson/NY-Times-API-ETL)
 - <b>PowerShell</b>
   - [File Integrity Monitor](https://github.com/kennethrockson/File-Monitor)
 
