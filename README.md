@@ -1,12 +1,12 @@
-<h1>Hi, I'm Kenny! <br/><a href="https://github.com/kennethrockson">Programmer</a>, <a href="https://www.linkedin.com/in/kennethrockson/">Cybersecurity Student</a>, <a href="https://kenneth-rockson-iti.squarespace.com">Blogger</a></h1>
+<h1>Hi, I'm Kenny! <br/><a href="https://github.com/kennethrockson">Programmer</a> and <a href="https://www.linkedin.com/in/kennethrockson/">Security Engineer</a>
 
-<h2>👨‍💻 Programs:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Python</b>
-  - [Object Oriented Programming](https://github.com/kennethrockson/Oop/tree/main/OOP)
-  - [Ebay Web Scraping](https://github.com/kennethrockson/Oop/blob/main/OOP/midterm_code.py) 
-  - [File Automation](https://github.com/kennethrockson/Oop/blob/main/OOP/file_io.py)
-  - [NY Times API ETL Project](https://github.com/kennethrockson/NY-Times-API-ETL)
+- <b>Home Lab</b>
+  - [Microsoft Azure](https://github.com/kennethrockson/My-Lab-Azure-Vulnerability-Management)
+  - [Network Engineering](https://github.com/kennethrockson/Network-Engineering) 
+  - [My App: System Threat Tracker](https://github.com/kennethrockson/System-Threat-Tracker)
+  - [Data Engineering](https://github.com/kennethrockson/NY-Times-API-ETL)
 - <b>PowerShell</b>
   - [File Integrity Monitor](https://github.com/kennethrockson/File-Monitor)
 
