@@ -10,6 +10,8 @@
   
   - [Data Engineering](https://github.com/kennethrockson/Data-Engineering)
 
+  - [Scripting](https://github.com/kennethrockson/File-Monitor)
+
 <h2> 🤳 Feel free to connect with me:</h2>
 
 [<img align="left" alt="KennethRockson | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
