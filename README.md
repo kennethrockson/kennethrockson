@@ -1,14 +1,14 @@
-<h1>Hi, I'm Kenny!<br/><a href="https://www.linkedin.com/in/kennethrockson/">Security Engineer</a>
+<h1>Hi, I'm Kenny!<br/><a href="https://www.linkedin.com/in/kennethrockson/">Security Analyst</a>
 
 <h2>👨‍💻 Projects:</h2>
 
   - [Cyber Security Home Lab](https://github.com/kennethrockson/My-Lab-Azure-Vulnerability-Management)
   
-  - [Network Engineering](https://github.com/kennethrockson/Network-Engineering)
+  - [Network Topology](https://github.com/kennethrockson/Network-Engineering)
     
   - [My App: System Threat Tracker](https://github.com/kennethrockson/System-Threat-Tracker)
   
-  - [Data Engineering](https://github.com/kennethrockson/Data-Engineering)
+  - [Data Exfiltration](https://github.com/kennethrockson/Data-Engineering)
 
   - [Phishing Database](https://github.com/kennethrockson/Phish-Database)
 
