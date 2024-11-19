@@ -5,12 +5,14 @@
   - [Cyber Security Home Lab](https://github.com/kennethrockson/My-Lab-Azure-Vulnerability-Management)
   
   - [Network Topology](https://github.com/kennethrockson/Network-Engineering)
+
+  - [Cloud Security - Azure](https://github.com/kennethrockson/Implementing-NSGs-in-Azure)
     
   - [My App: System Threat Tracker](https://github.com/kennethrockson/System-Threat-Tracker)
   
-  - [Data Exfiltration](https://github.com/kennethrockson/Data-Engineering)
+  - [Data Exfiltration - Python](https://github.com/kennethrockson/Data-Engineering)
 
-  - [Phishing Database](https://github.com/kennethrockson/Phish-Database)
+  - [Phishing Database - SQL](https://github.com/kennethrockson/Phish-Database)
 
 
 
