@@ -4,7 +4,7 @@
 
   - [Cyber Security Home Lab](https://github.com/kennethrockson/My-Lab-Azure-Vulnerability-Management)
   
-  - [Network Topology](https://github.com/kennethrockson/Network-Engineering)
+  - [Securing Data at Rest in AWS](https://github.com/kennethrockson/Securing-AWS-S3-Bucket/tree/main)
 
   - [Cloud Security - Azure](https://github.com/kennethrockson/Implementing-NSGs-in-Azure)
     
