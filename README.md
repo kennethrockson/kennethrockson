@@ -1,5 +1,4 @@
-<h1>Hi, I'm Kenny!<br/><a href="https://www.linkedin.com/in/kennethrockson/">Security Analyst</a>
-
+<h1>Hi, I'm Kenny!<br/><a href="https://www.linkedin.com/in/kennethrockson/">
 <h2>👨‍💻 Projects:</h2>
 
   - [Cyber Security Home Lab](https://github.com/kennethrockson/My-Lab-Azure-Vulnerability-Management)
